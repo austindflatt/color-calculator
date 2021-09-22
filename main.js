@@ -2,8 +2,6 @@ const prompt = require('prompt-sync')();
 
 const selection = Number(prompt('Type 1 to combine colors or type 2 to deconstruct a color:'));
 
-//** Combine Colors */
-
 //** Deconstruct Colors */
 const purple = "that deconstructs to red + blue";
 const orange = "that deconstructs to red + yellow";
